@@ -1,0 +1,19 @@
+{
+  "name": "js-utils",
+  "version": "1.0.0",
+  "description": "JavaScript算法和工具函数库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/likaihua/js-utils.git"
+  },
+  "author": "likaihua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/likaihua/js-utils/issues"
+  },
+  "homepage": "https://github.com/likaihua/js-utils#readme"
+}
